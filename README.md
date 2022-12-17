@@ -1,2 +1,2 @@
-# Denomination
-Converting USD to PHP and solving for Domination.
+# C Programming Challenge
+List of the C Programming Challenges
